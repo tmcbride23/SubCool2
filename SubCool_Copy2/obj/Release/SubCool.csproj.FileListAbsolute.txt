@@ -1,0 +1,116 @@
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\SubCool\SubCool\Bin\Release\ApplicationIcon.png
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\SubCool\SubCool\Bin\Release\Background.png
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\SubCool\SubCool\Bin\Release\SubCool.dll
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\SubCool\SubCool\Bin\Release\SubCool.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\SubCool\SubCool\Bin\Release\AppManifest.xaml
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\SubCool\SubCool\Bin\Release\SubCool.xap
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\SubCool\SubCool\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\SubCool\SubCool\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\SubCool\SubCool\obj\Release\App.g.i.cs
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\SubCool\SubCool\obj\Release\MainPage.g.i.cs
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\SubCool\SubCool\obj\Release\SubCool.g.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\SubCool\SubCool\obj\Release\SubCool.dll
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\SubCool\SubCool\obj\Release\SubCool.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\SubCool\SubCool\obj\Release\XapCacheFile.xml
+C:\Users\Owner\Desktop\SubCool\Bin\Release\ApplicationIcon.png
+C:\Users\Owner\Desktop\SubCool\Bin\Release\Background.png
+C:\Users\Owner\Desktop\SubCool\Bin\Release\SubCool.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\SubCool.pdb
+C:\Users\Owner\Desktop\SubCool\Bin\Release\AppManifest.xaml
+C:\Users\Owner\Desktop\SubCool\Bin\Release\SubCool.xap
+C:\Users\Owner\Desktop\SubCool\Bin\Release\Microsoft.Advertising.Mobile.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Owner\Desktop\SubCool\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Owner\Desktop\SubCool\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool\obj\Release\SubCool.g.resources
+C:\Users\Owner\Desktop\SubCool\obj\Release\SubCool.dll
+C:\Users\Owner\Desktop\SubCool\obj\Release\SubCool.pdb
+C:\Users\Owner\Desktop\SubCool\obj\Release\XapCacheFile.xml
+C:\Users\Owner\Desktop\SubCool\obj\Release\App.g.i.cs
+C:\Users\Owner\Desktop\SubCool\obj\Release\MainPage.g.i.cs
+C:\Users\Owner\Desktop\SubCool\Bin\Release\Microsoft.Advertising.Mobile.Xna.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Owner\Desktop\SubCool\Bin\Release\Microsoft.Advertising.Mobile.xml
+C:\Users\Owner\Desktop\SubCool\Bin\Release\Microsoft.Advertising.Mobile.Xna.xml
+C:\Users\Owner\Desktop\SubCool\Bin\Release\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\ApplicationIcon.png
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\Background.png
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\SubCool.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\SubCool.pdb
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\AppManifest.xaml
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\SubCool.xap
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\Microsoft.Advertising.Mobile.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\Microsoft.Advertising.Mobile.UI.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\Microsoft.Advertising.Mobile.Xna.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\Microsoft.Advertising.Mobile.xml
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\Microsoft.Advertising.Mobile.Xna.xml
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\obj\Release\App.g.i.cs
+C:\Users\Owner\Desktop\SubCool_Copy2\obj\Release\MainPage.g.i.cs
+C:\Users\Owner\Desktop\SubCool_Copy2\obj\Release\SubCool.g.resources
+C:\Users\Owner\Desktop\SubCool_Copy2\obj\Release\SubCool.dll
+C:\Users\Owner\Desktop\SubCool_Copy2\obj\Release\SubCool.pdb
+C:\Users\Owner\Desktop\SubCool_Copy2\obj\Release\XapCacheFile.xml
+D:\New folder\SubCool_Copy2\Bin\Release\ApplicationIcon.png
+D:\New folder\SubCool_Copy2\Bin\Release\Background.png
+D:\New folder\SubCool_Copy2\Bin\Release\SubCool.dll
+D:\New folder\SubCool_Copy2\Bin\Release\SubCool.pdb
+D:\New folder\SubCool_Copy2\Bin\Release\AppManifest.xaml
+D:\New folder\SubCool_Copy2\Bin\Release\SubCool.xap
+D:\New folder\SubCool_Copy2\Bin\Release\Microsoft.Phone.Controls.dll
+D:\New folder\SubCool_Copy2\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+D:\New folder\SubCool_Copy2\Bin\Release\Microsoft.Phone.Controls.xml
+D:\New folder\SubCool_Copy2\Bin\Release\Microsoft.Phone.Controls.Maps.xml
+D:\New folder\SubCool_Copy2\obj\Release\App.g.i.cs
+D:\New folder\SubCool_Copy2\obj\Release\MainPage.g.i.cs
+D:\New folder\SubCool_Copy2\obj\Release\SubCool.g.resources
+D:\New folder\SubCool_Copy2\obj\Release\SubCool.dll
+D:\New folder\SubCool_Copy2\obj\Release\SubCool.pdb
+D:\New folder\SubCool_Copy2\obj\Release\XapCacheFile.xml

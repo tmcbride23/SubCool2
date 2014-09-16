@@ -1,0 +1,15 @@
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\SubCool\SubCool\obj\Debug\SubCool.g.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\SubCool\SubCool\Bin\Debug\ApplicationIcon.png
+C:\Users\Owner\documents\visual studio 2010\Projects\SubCool\SubCool\Bin\Debug\Background.png
+C:\Users\Owner\documents\visual studio 2010\Projects\SubCool\SubCool\Bin\Debug\SubCool.dll
+C:\Users\Owner\documents\visual studio 2010\Projects\SubCool\SubCool\Bin\Debug\SubCool.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\SubCool\SubCool\Bin\Debug\AppManifest.xaml
+C:\Users\Owner\documents\visual studio 2010\Projects\SubCool\SubCool\Bin\Debug\SubCool.xap
+C:\Users\Owner\documents\visual studio 2010\Projects\SubCool\SubCool\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Owner\documents\visual studio 2010\Projects\SubCool\SubCool\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\SubCool\SubCool\obj\Debug\SubCool.dll
+C:\Users\Owner\documents\visual studio 2010\Projects\SubCool\SubCool\obj\Debug\SubCool.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\SubCool\SubCool\obj\Debug\XapCacheFile.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\SubCool\SubCool\obj\Debug\SubCool.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\SubCool\SubCool\obj\Debug\App.g.i.cs
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\SubCool\SubCool\obj\Debug\MainPage.g.i.cs
